@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\Downloads\\SIMS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|c:\\users\\admin\\downloads\\sims\\sims\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|solutionrelative:sims\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|c:\\users\\admin\\downloads\\sims\\sims\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|solutionrelative:sims\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|c:\\users\\admin\\downloads\\sims\\sims\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|solutionrelative:sims\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|c:\\users\\admin\\downloads\\sims\\sims\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|solutionrelative:sims\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|c:\\users\\admin\\downloads\\sims\\sims\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|solutionrelative:sims\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|c:\\users\\admin\\downloads\\sims\\sims\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|solutionrelative:sims\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|c:\\users\\admin\\downloads\\sims\\sims\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|solutionrelative:sims\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|c:\\users\\admin\\downloads\\sims\\sims\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|solutionrelative:sims\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|c:\\users\\admin\\downloads\\sims\\sims\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -66,11 +82,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\Program.cs",
+              "RelativeDocumentMoniker": "SIMS\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\Program.cs",
+              "RelativeToolTip": "SIMS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:52:23.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "SIMS\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "SIMS\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:23:35.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "SIMS\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "SIMS\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:16:50.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\appsettings.json",
+              "RelativeDocumentMoniker": "SIMS\\appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\appsettings.json",
+              "RelativeToolTip": "SIMS\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-14T17:13:17.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\Views\\Student\\Index.cshtml",
               "RelativeDocumentMoniker": "SIMS\\Views\\Student\\Index.cshtml",
@@ -82,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\Views\\Student\\Edit.cshtml",
               "RelativeDocumentMoniker": "SIMS\\Views\\Student\\Edit.cshtml",
@@ -95,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\Views\\Student\\Add.cshtml",
               "RelativeDocumentMoniker": "SIMS\\Views\\Student\\Add.cshtml",
@@ -107,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\Views\\Teacher\\Index.cshtml",
               "RelativeDocumentMoniker": "SIMS\\Views\\Teacher\\Index.cshtml",
@@ -119,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\Database\\Student.cs",
               "RelativeDocumentMoniker": "SIMS\\Database\\Student.cs",
@@ -131,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "StudentViewModel.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\Models\\StudentViewModel.cs",
               "RelativeDocumentMoniker": "SIMS\\Models\\StudentViewModel.cs",
@@ -151,11 +219,12 @@
               "RelativeToolTip": "SIMS\\Controllers\\StudentController.cs",
               "ViewState": "AgIAABABAAAAAAAAAADwvygBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T13:50:46.725Z"
+              "WhenOpened": "2025-04-14T13:50:46.725Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "CategoryViewModel.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\Models\\CategoryViewModel.cs",
               "RelativeDocumentMoniker": "SIMS\\Models\\CategoryViewModel.cs",
@@ -167,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "UploadFile.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\Helpers\\UploadFile.cs",
               "RelativeDocumentMoniker": "SIMS\\Helpers\\UploadFile.cs",
@@ -179,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Teacher.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\Database\\Teacher.cs",
               "RelativeDocumentMoniker": "SIMS\\Database\\Teacher.cs",
@@ -191,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "TeacherViewModel.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\Models\\TeacherViewModel.cs",
               "RelativeDocumentMoniker": "SIMS\\Models\\TeacherViewModel.cs",
@@ -203,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\Views\\Teacher\\Edit.cshtml",
               "RelativeDocumentMoniker": "SIMS\\Views\\Teacher\\Edit.cshtml",
@@ -215,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\Views\\Teacher\\Add.cshtml",
               "RelativeDocumentMoniker": "SIMS\\Views\\Teacher\\Add.cshtml",
@@ -227,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "TeacherController.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\Controllers\\TeacherController.cs",
               "RelativeDocumentMoniker": "SIMS\\Controllers\\TeacherController.cs",

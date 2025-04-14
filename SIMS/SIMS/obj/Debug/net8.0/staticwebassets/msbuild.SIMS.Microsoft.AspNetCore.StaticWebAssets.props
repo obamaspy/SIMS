@@ -1422,6 +1422,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\SIMS\js\app.js.LICENSE.txt'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\SIMS\students\0safr93ogd5b1.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SIMS</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SIMS</BasePath>
+      <RelativePath>SIMS/students/0safr93ogd5b1.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>2libexz1wf</Fingerprint>
+      <Integrity>Kms44SA0M6L9fCEuc/xY341X3kK+RlIICpo7XahVxFY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\SIMS\students\0safr93ogd5b1.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\SIMS\students\anh-anime-giang-sinh-chibi-3-1.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>SIMS</SourceId>
@@ -1439,6 +1457,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\SIMS\students\anh-anime-giang-sinh-chibi-3-1.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\SIMS\students\anh-avatar-anime-trang-den-girl-1.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SIMS</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SIMS</BasePath>
+      <RelativePath>SIMS/students/anh-avatar-anime-trang-den-girl-1.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>0xhmg5tmlq</Fingerprint>
+      <Integrity>zGe1bWtIV1TXpwT8uVDteqiR3cBWvVR8UGlzSzFjmsE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\SIMS\students\anh-avatar-anime-trang-den-girl-1.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\SIMS\students\avatar-trang-4.jpg'))">
       <SourceType>Package</SourceType>
@@ -1493,6 +1529,42 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\SIMS\students\hinh-nen-anime-ngau-nam-1.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\SIMS\students\image.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SIMS</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SIMS</BasePath>
+      <RelativePath>SIMS/students/image.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>zo4pyjpvyc</Fingerprint>
+      <Integrity>A8K3Cufa+BoCxpXJWFaE5EiLB66EoUFM4kvi0S9CeNk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\SIMS\students\image.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\SIMS\students\wgxzsuxysame1.gif'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SIMS</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SIMS</BasePath>
+      <RelativePath>SIMS/students/wgxzsuxysame1.gif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>domfyea61i</Fingerprint>
+      <Integrity>c2XTbf8A/3bnYEju1XfIABy/vyDcArpdPKQEwa/lOsE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\SIMS\students\wgxzsuxysame1.gif'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\SIMS\teachers\09b859813a68cf565aa4f7adb01646ef.jpg'))">
       <SourceType>Package</SourceType>
@@ -2034,6 +2106,42 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\SIMS\upload\images\fe0b7941-a5ed-4619-b3bc-2883e11a3214-PHP-logo.png'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\0290a18a-68d7-4783-bfe5-21208f614f40.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SIMS</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SIMS</BasePath>
+      <RelativePath>uploads/students/0290a18a-68d7-4783-bfe5-21208f614f40.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ltfr8yrqfa</Fingerprint>
+      <Integrity>J3el/jDtQvS/YDy5sScr0WU5UUPnumLF5VITQxPLQkA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\0290a18a-68d7-4783-bfe5-21208f614f40.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\080902bb-01ae-4c42-ac86-ce9adb6778e6.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SIMS</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SIMS</BasePath>
+      <RelativePath>uploads/students/080902bb-01ae-4c42-ac86-ce9adb6778e6.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ltfr8yrqfa</Fingerprint>
+      <Integrity>J3el/jDtQvS/YDy5sScr0WU5UUPnumLF5VITQxPLQkA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\080902bb-01ae-4c42-ac86-ce9adb6778e6.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\0f109c25-4877-43f8-a5c4-354a9ba9b7ab.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>SIMS</SourceId>
@@ -2051,6 +2159,114 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\0f109c25-4877-43f8-a5c4-354a9ba9b7ab.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\111c610c-8d01-4bd0-9e08-6998004d6dbd.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SIMS</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SIMS</BasePath>
+      <RelativePath>uploads/students/111c610c-8d01-4bd0-9e08-6998004d6dbd.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ltfr8yrqfa</Fingerprint>
+      <Integrity>J3el/jDtQvS/YDy5sScr0WU5UUPnumLF5VITQxPLQkA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\111c610c-8d01-4bd0-9e08-6998004d6dbd.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\1d2a2164-233a-423c-aa26-240a23f23950.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SIMS</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SIMS</BasePath>
+      <RelativePath>uploads/students/1d2a2164-233a-423c-aa26-240a23f23950.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ltfr8yrqfa</Fingerprint>
+      <Integrity>J3el/jDtQvS/YDy5sScr0WU5UUPnumLF5VITQxPLQkA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\1d2a2164-233a-423c-aa26-240a23f23950.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\23c342ab-4220-48c4-b11a-3ec6266e9714.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SIMS</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SIMS</BasePath>
+      <RelativePath>uploads/students/23c342ab-4220-48c4-b11a-3ec6266e9714.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ltfr8yrqfa</Fingerprint>
+      <Integrity>J3el/jDtQvS/YDy5sScr0WU5UUPnumLF5VITQxPLQkA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\23c342ab-4220-48c4-b11a-3ec6266e9714.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\24e6c60b-92e3-4f96-8e0a-4c6c5e8cac4e.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SIMS</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SIMS</BasePath>
+      <RelativePath>uploads/students/24e6c60b-92e3-4f96-8e0a-4c6c5e8cac4e.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ltfr8yrqfa</Fingerprint>
+      <Integrity>J3el/jDtQvS/YDy5sScr0WU5UUPnumLF5VITQxPLQkA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\24e6c60b-92e3-4f96-8e0a-4c6c5e8cac4e.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\30f73556-c753-445e-88ff-7326f59eeda4.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SIMS</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SIMS</BasePath>
+      <RelativePath>uploads/students/30f73556-c753-445e-88ff-7326f59eeda4.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ltfr8yrqfa</Fingerprint>
+      <Integrity>J3el/jDtQvS/YDy5sScr0WU5UUPnumLF5VITQxPLQkA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\30f73556-c753-445e-88ff-7326f59eeda4.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\3b015659-cb40-4960-b28e-8464a9ef3794.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SIMS</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SIMS</BasePath>
+      <RelativePath>uploads/students/3b015659-cb40-4960-b28e-8464a9ef3794.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ltfr8yrqfa</Fingerprint>
+      <Integrity>J3el/jDtQvS/YDy5sScr0WU5UUPnumLF5VITQxPLQkA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\3b015659-cb40-4960-b28e-8464a9ef3794.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\3d5e5025-b0c2-42f6-a640-a51eb0d3703c.jpg'))">
       <SourceType>Package</SourceType>
@@ -2070,6 +2286,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\3d5e5025-b0c2-42f6-a640-a51eb0d3703c.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\4529cdde-f7cd-4a1f-a18f-4a984405d531.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SIMS</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SIMS</BasePath>
+      <RelativePath>uploads/students/4529cdde-f7cd-4a1f-a18f-4a984405d531.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ltfr8yrqfa</Fingerprint>
+      <Integrity>J3el/jDtQvS/YDy5sScr0WU5UUPnumLF5VITQxPLQkA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\4529cdde-f7cd-4a1f-a18f-4a984405d531.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\4c3ff41a-fc48-4f44-bdc3-fef2f9be9269.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>SIMS</SourceId>
@@ -2087,6 +2321,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\4c3ff41a-fc48-4f44-bdc3-fef2f9be9269.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\5aef2c9e-ab8e-4307-b77e-dd52515d85e5.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SIMS</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SIMS</BasePath>
+      <RelativePath>uploads/students/5aef2c9e-ab8e-4307-b77e-dd52515d85e5.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ltfr8yrqfa</Fingerprint>
+      <Integrity>J3el/jDtQvS/YDy5sScr0WU5UUPnumLF5VITQxPLQkA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\5aef2c9e-ab8e-4307-b77e-dd52515d85e5.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\5fec9dec-2b69-4bc2-bd9b-4da31b90899f.jpg'))">
       <SourceType>Package</SourceType>
@@ -2106,6 +2358,60 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\5fec9dec-2b69-4bc2-bd9b-4da31b90899f.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\671bb95c-b840-4f08-a67e-ca0216109de3.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SIMS</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SIMS</BasePath>
+      <RelativePath>uploads/students/671bb95c-b840-4f08-a67e-ca0216109de3.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ltfr8yrqfa</Fingerprint>
+      <Integrity>J3el/jDtQvS/YDy5sScr0WU5UUPnumLF5VITQxPLQkA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\671bb95c-b840-4f08-a67e-ca0216109de3.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\72c49dbc-09f0-42d3-94f8-1b7adbb33e72.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SIMS</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SIMS</BasePath>
+      <RelativePath>uploads/students/72c49dbc-09f0-42d3-94f8-1b7adbb33e72.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ltfr8yrqfa</Fingerprint>
+      <Integrity>J3el/jDtQvS/YDy5sScr0WU5UUPnumLF5VITQxPLQkA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\72c49dbc-09f0-42d3-94f8-1b7adbb33e72.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\8198a7e0-2f03-48a8-9838-0450f4045634.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SIMS</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SIMS</BasePath>
+      <RelativePath>uploads/students/8198a7e0-2f03-48a8-9838-0450f4045634.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ltfr8yrqfa</Fingerprint>
+      <Integrity>J3el/jDtQvS/YDy5sScr0WU5UUPnumLF5VITQxPLQkA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\8198a7e0-2f03-48a8-9838-0450f4045634.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\845afffe-25ca-4004-83dd-86af87a1b9d9.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>SIMS</SourceId>
@@ -2123,6 +2429,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\845afffe-25ca-4004-83dd-86af87a1b9d9.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\992642c8-8ca5-4bd8-b5a1-646f85cfd06d.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SIMS</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SIMS</BasePath>
+      <RelativePath>uploads/students/992642c8-8ca5-4bd8-b5a1-646f85cfd06d.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ltfr8yrqfa</Fingerprint>
+      <Integrity>J3el/jDtQvS/YDy5sScr0WU5UUPnumLF5VITQxPLQkA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\992642c8-8ca5-4bd8-b5a1-646f85cfd06d.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\ab1ccded-b283-49de-bab3-46a2adb8ebc2.jpg'))">
       <SourceType>Package</SourceType>
@@ -2178,6 +2502,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\ce45125a-c074-4104-b80f-adc315c67b0a.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\d4c0adaa-6cef-4ea4-88eb-03bff0e5c79b.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SIMS</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SIMS</BasePath>
+      <RelativePath>uploads/students/d4c0adaa-6cef-4ea4-88eb-03bff0e5c79b.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ltfr8yrqfa</Fingerprint>
+      <Integrity>J3el/jDtQvS/YDy5sScr0WU5UUPnumLF5VITQxPLQkA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\d4c0adaa-6cef-4ea4-88eb-03bff0e5c79b.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\db5abf99-8ee0-4c14-90f6-c4af1417e2be.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>SIMS</SourceId>
@@ -2196,6 +2538,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\db5abf99-8ee0-4c14-90f6-c4af1417e2be.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\e74c6b0d-1a7c-4b97-b1b1-7d6648e214ff.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SIMS</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SIMS</BasePath>
+      <RelativePath>uploads/students/e74c6b0d-1a7c-4b97-b1b1-7d6648e214ff.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>0xhmg5tmlq</Fingerprint>
+      <Integrity>zGe1bWtIV1TXpwT8uVDteqiR3cBWvVR8UGlzSzFjmsE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\e74c6b0d-1a7c-4b97-b1b1-7d6648e214ff.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\e91f511f-7ba5-43fc-b71b-2a963e8f1eb6.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>SIMS</SourceId>
@@ -2213,6 +2573,42 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\e91f511f-7ba5-43fc-b71b-2a963e8f1eb6.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\e9f99e06-9d04-4ee2-a895-f0d62d9e51fb.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SIMS</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SIMS</BasePath>
+      <RelativePath>uploads/students/e9f99e06-9d04-4ee2-a895-f0d62d9e51fb.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ltfr8yrqfa</Fingerprint>
+      <Integrity>J3el/jDtQvS/YDy5sScr0WU5UUPnumLF5VITQxPLQkA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\e9f99e06-9d04-4ee2-a895-f0d62d9e51fb.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\ffb73a79-3658-45f4-beda-23828b4095b1.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SIMS</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SIMS</BasePath>
+      <RelativePath>uploads/students/ffb73a79-3658-45f4-beda-23828b4095b1.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ltfr8yrqfa</Fingerprint>
+      <Integrity>J3el/jDtQvS/YDy5sScr0WU5UUPnumLF5VITQxPLQkA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\students\ffb73a79-3658-45f4-beda-23828b4095b1.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\teachers\09b859813a68cf565aa4f7adb01646ef.jpg'))">
       <SourceType>Package</SourceType>
