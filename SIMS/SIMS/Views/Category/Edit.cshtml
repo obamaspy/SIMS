@@ -1,0 +1,29 @@
+﻿@model SIMS.Models.CategoryDetail;
+@{
+    ViewData["title"] = "Edit Category";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+<h2>Edit Category</h2>
+<form method="post" enctype="multipart/form-data" asp-action="Edit">
+    <input type="hidden" asp-for="Id" />
+    <div class="mb-3">
+        <label asp-for="NameCategory">Name</label>
+        <input asp-for="NameCategory" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Description">Description</label>
+        <input asp-for="Description" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Avatar">Avatar</label>
+        <input type="file" name="ViewAvatar" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Status">Status</label>
+        <select asp-for="Status" class="form-control">
+            <option>Active</option>
+            <option>Inactive</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-success">Save Changes</button>
+</form>

@@ -1,0 +1,16 @@
+﻿[HttpPost]
+[ValidateAntiForgeryToken]
+public IActionResult Delete(int id)
+{
+    var teacher = _dbContext.Teacher.Find(id);
+    if (teacher == null)
+    {
+        return NotFound();
+    }
+
+    _dbContext.Teacher.Remove(teacher);
+    _dbContext.SaveChanges();
+    TempData["message"] = "Teacher deleted successfully!";
+
+    return RedirectToAction("Index");
+}

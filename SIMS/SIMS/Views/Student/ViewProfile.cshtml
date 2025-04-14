@@ -1,0 +1,28 @@
+﻿@model SIMS.Models.StudentDetail
+@{
+    ViewData["Title"] = "Student Profile";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<h2 class="mb-4">Student Profile</h2>
+
+<div class="card">
+    <div class="card-body">
+        <dl class="row">
+            <dt class="col-sm-3">Name</dt>
+            <dd class="col-sm-9">@Model.Name</dd>
+
+            <dt class="col-sm-3">Student Code</dt>
+            <dd class="col-sm-9">@Model.StudentCode</dd>
+
+            <dt class="col-sm-3">Email</dt>
+            <dd class="col-sm-9">@Model.Email</dd>
+
+            <dt class="col-sm-3">Address</dt>
+            <dd class="col-sm-9">@Model.Address</dd>
+
+            <dt class="col-sm-3">Course</dt>
+            <dd class="col-sm-9">@Model.Course</dd>
+        </dl>
+    </div>
+</div>

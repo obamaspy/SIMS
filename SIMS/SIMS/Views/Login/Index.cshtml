@@ -1,0 +1,38 @@
+﻿@model SIMS.Models.LoginViewModel
+
+@{
+    Layout = "~/Views/Shared/_LayoutSignInSignUp.cshtml";
+}
+
+<div class="d-table-cell align-middle">
+    <div class="text-center mt-4">
+        <h1 class="h2">Welcome back!</h1>
+        <p class="lead">Sign in to your account to continue</p>
+        @if (ViewData["MessageLogin"] != null)
+        {
+            <p class="lead text-danger">@ViewData["MessageLogin"]</p>
+        }
+    </div>
+
+    <div class="card">
+        <div class="card-body">
+            <div class="m-sm-3">
+                <form method="post" asp-controller="Login" asp-action="Index">
+                    <div class="mb-3">
+                        <label asp-for="Email" class="form-label">Email</label>
+                        <input class="form-control form-control-lg" type="email" asp-for="Email" placeholder="Enter your email" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="Password" class="form-label">Password</label>
+                        <input class="form-control form-control-lg" type="password" asp-for="Password" placeholder="Enter your password" />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+                    <div class="d-grid gap-2 mt-3">
+                        <button type="submit" class="btn btn-lg btn-primary">Submit</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

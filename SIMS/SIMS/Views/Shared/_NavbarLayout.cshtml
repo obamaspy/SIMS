@@ -1,0 +1,100 @@
+﻿@{
+    string NameController = this.ViewContext.RouteData.Values["Controller"].ToString();
+    string activeDashboard = NameController == "Dashboard" ? "active" : "";
+    string activeCourses = NameController == "Courses" ? "active" : "";
+    string activeTeacher = NameController == "Teacher" ? "active" : "";
+    string activeCategory = NameController == "Category" ? "active" : "";
+    string activeAccounts = NameController == "Account" ? "active" : "";
+    bool isStudent = User.IsInRole("Student"); // Kiểm tra người dùng có phải là Student hay không
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SIMS</title>
+    <style>
+        /* Màu nền navbar */
+        .navbar-orange {
+            background-color: orange; /* Màu cam */
+        }
+
+            /* Thay đổi màu sắc của liên kết trong navbar */
+            .navbar-orange .sidebar-link {
+                color: white; /* Đặt màu chữ thành trắng để dễ nhìn */
+            }
+
+                /* Hiệu ứng hover cho các liên kết trong navbar */
+                .navbar-orange .sidebar-link:hover {
+                    background-color: #e67e00; /* Màu cam đậm khi hover */
+                }
+
+            /* Thêm màu sắc cho các mục menu đang hoạt động */
+            .navbar-orange .sidebar-item.active .sidebar-link {
+                background-color: #e67e00; /* Màu cam đậm cho mục đang chọn */
+                color: white; /* Màu chữ trắng khi mục đang chọn */
+            }
+    </style>
+</head>
+<body>
+
+    <nav id="sidebar" class="sidebar js-sidebar navbar-orange">
+        <div class="sidebar-content js-simplebar">
+            <a class="sidebar-brand" href="@Url.Action("Index","Dashboard")">
+                <span class="align-middle">SIMS</span>
+            </a>
+
+            <ul class="sidebar-nav">
+                <li class="sidebar-header">
+                    Managements
+                </li>
+
+                <!-- Dashboard -->
+                <li class="sidebar-item @activeDashboard">
+                    <a class="sidebar-link" asp-area="" asp-controller="Dashboard" asp-action="Index">
+                        <i class="align-middle" data-feather="sliders"></i> <span class="align-middle">Dashboard</span>
+                    </a>
+                </li>
+
+                <!-- Category -->
+                <li class="sidebar-item @activeCategory">
+                    <a class="sidebar-link" asp-area="" asp-controller="Category" asp-action="Index">
+                        <i class="align-middle" data-feather="sliders"></i> <span class="align-middle">Category</span>
+                    </a>
+                </li>
+
+                <!-- Courses -->
+                <li class="sidebar-item @activeCourses">
+                    <a class="sidebar-link" asp-area="" asp-controller="Courses" asp-action="Index">
+                        <i class="align-middle" data-feather="sliders"></i> <span class="align-middle">Courses</span>
+                    </a>
+                </li>
+
+                <!-- Các mục chỉ cho phép Admin hoặc các vai trò khác -->
+                @if (!isStudent)
+                {
+                    <li class="sidebar-item @activeAccounts">
+                        <a class="sidebar-link" asp-area="" asp-controller="Accounts" asp-action="Index">
+                            <i class="align-middle" data-feather="sliders"></i> <span class="align-middle">Accounts</span>
+                        </a>
+                    </li>
+
+                    <li class="sidebar-item @activeTeacher">
+                        <a class="sidebar-link" asp-area="" asp-controller="Teacher" asp-action="Index">
+                            <i class="align-middle" data-feather="user"></i> <span class="align-middle">Teacher</span>
+                        </a>
+                    </li>
+
+                    <li class="sidebar-item">
+                        <a class="sidebar-link" asp-area="" asp-controller="Student" asp-action="Index">
+                            <i class="align-middle" data-feather="user-plus"></i> <span class="align-middle">Student</span>
+                        </a>
+                    </li>
+                }
+            </ul>
+        </div>
+    </nav>
+
+</body>
+</html>

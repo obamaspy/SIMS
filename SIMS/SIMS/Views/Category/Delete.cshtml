@@ -1,0 +1,12 @@
+﻿@model SIMS.Models.CategoryDetail;
+@{
+    ViewData["title"] = "Delete Category";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+<h2>Delete Category</h2>
+<p>Are you sure you want to delete <strong>@Model.NameCategory</strong>?</p>
+<form method="post" asp-action="DeleteConfirmed">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a href="@Url.Action("Index", "Category")" class="btn btn-secondary">Cancel</a>
+</form>

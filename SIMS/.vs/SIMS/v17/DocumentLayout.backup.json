@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\APDP\\SIMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|d:\\apdp\\sims\\sims\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|solutionrelative:sims\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|d:\\apdp\\sims\\sims\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|solutionrelative:sims\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|d:\\apdp\\sims\\sims\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|solutionrelative:sims\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|d:\\apdp\\sims\\sims\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|solutionrelative:sims\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|d:\\apdp\\sims\\sims\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|solutionrelative:sims\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|d:\\apdp\\sims\\sims\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|solutionrelative:sims\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|d:\\apdp\\sims\\sims\\models\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|solutionrelative:sims\\models\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|d:\\apdp\\sims\\sims\\views\\teacher\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|solutionrelative:sims\\views\\teacher\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|d:\\apdp\\sims\\sims\\views\\teacher\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|solutionrelative:sims\\views\\teacher\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|d:\\apdp\\sims\\sims\\models\\teacherviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|solutionrelative:sims\\models\\teacherviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|d:\\apdp\\sims\\sims\\database\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|solutionrelative:sims\\database\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|d:\\apdp\\sims\\sims\\database\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|solutionrelative:sims\\database\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|d:\\apdp\\sims\\sims\\models\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|solutionrelative:sims\\models\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|d:\\apdp\\sims\\sims\\helpers\\uploadfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148013A6-8D85-4B45-855E-0185A81212B0}|SIMS\\SIMS.csproj|solutionrelative:sims\\helpers\\uploadfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\APDP\\SIMS\\SIMS\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "SIMS\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\APDP\\SIMS\\SIMS\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "SIMS\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAUwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T14:44:55.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\APDP\\SIMS\\SIMS\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SIMS\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "D:\\APDP\\SIMS\\SIMS\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "SIMS\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAADQAAAAAAAAAAAAwwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T14:44:40.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\APDP\\SIMS\\SIMS\\Views\\Student\\Add.cshtml",
+              "RelativeDocumentMoniker": "SIMS\\Views\\Student\\Add.cshtml",
+              "ToolTip": "D:\\APDP\\SIMS\\SIMS\\Views\\Student\\Add.cshtml",
+              "RelativeToolTip": "SIMS\\Views\\Student\\Add.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAADwv0MAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T14:44:21.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\APDP\\SIMS\\SIMS\\Views\\Teacher\\Index.cshtml",
+              "RelativeDocumentMoniker": "SIMS\\Views\\Teacher\\Index.cshtml",
+              "ToolTip": "D:\\APDP\\SIMS\\SIMS\\Views\\Teacher\\Index.cshtml",
+              "RelativeToolTip": "SIMS\\Views\\Teacher\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T14:43:57.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\APDP\\SIMS\\SIMS\\Database\\Student.cs",
+              "RelativeDocumentMoniker": "SIMS\\Database\\Student.cs",
+              "ToolTip": "D:\\APDP\\SIMS\\SIMS\\Database\\Student.cs",
+              "RelativeToolTip": "SIMS\\Database\\Student.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:54:36.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentViewModel.cs",
+              "DocumentMoniker": "D:\\APDP\\SIMS\\SIMS\\Models\\StudentViewModel.cs",
+              "RelativeDocumentMoniker": "SIMS\\Models\\StudentViewModel.cs",
+              "ToolTip": "D:\\APDP\\SIMS\\SIMS\\Models\\StudentViewModel.cs",
+              "RelativeToolTip": "SIMS\\Models\\StudentViewModel.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA2wCEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:50:49.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\APDP\\SIMS\\SIMS\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "SIMS\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\APDP\\SIMS\\SIMS\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "SIMS\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAABABAAAAAAAAAADwvygBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:50:46.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryViewModel.cs",
+              "DocumentMoniker": "D:\\APDP\\SIMS\\SIMS\\Models\\CategoryViewModel.cs",
+              "RelativeDocumentMoniker": "SIMS\\Models\\CategoryViewModel.cs",
+              "ToolTip": "D:\\APDP\\SIMS\\SIMS\\Models\\CategoryViewModel.cs",
+              "RelativeToolTip": "SIMS\\Models\\CategoryViewModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:27:50.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UploadFile.cs",
+              "DocumentMoniker": "D:\\APDP\\SIMS\\SIMS\\Helpers\\UploadFile.cs",
+              "RelativeDocumentMoniker": "SIMS\\Helpers\\UploadFile.cs",
+              "ToolTip": "D:\\APDP\\SIMS\\SIMS\\Helpers\\UploadFile.cs",
+              "RelativeToolTip": "SIMS\\Helpers\\UploadFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:27:31.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\APDP\\SIMS\\SIMS\\Database\\Teacher.cs",
+              "RelativeDocumentMoniker": "SIMS\\Database\\Teacher.cs",
+              "ToolTip": "D:\\APDP\\SIMS\\SIMS\\Database\\Teacher.cs",
+              "RelativeToolTip": "SIMS\\Database\\Teacher.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T10:29:48.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TeacherViewModel.cs",
+              "DocumentMoniker": "D:\\APDP\\SIMS\\SIMS\\Models\\TeacherViewModel.cs",
+              "RelativeDocumentMoniker": "SIMS\\Models\\TeacherViewModel.cs",
+              "ToolTip": "D:\\APDP\\SIMS\\SIMS\\Models\\TeacherViewModel.cs",
+              "RelativeToolTip": "SIMS\\Models\\TeacherViewModel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswB0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T10:29:43.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\APDP\\SIMS\\SIMS\\Views\\Teacher\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SIMS\\Views\\Teacher\\Edit.cshtml",
+              "ToolTip": "D:\\APDP\\SIMS\\SIMS\\Views\\Teacher\\Edit.cshtml",
+              "RelativeToolTip": "SIMS\\Views\\Teacher\\Edit.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T08:52:14.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\APDP\\SIMS\\SIMS\\Views\\Teacher\\Add.cshtml",
+              "RelativeDocumentMoniker": "SIMS\\Views\\Teacher\\Add.cshtml",
+              "ToolTip": "D:\\APDP\\SIMS\\SIMS\\Views\\Teacher\\Add.cshtml",
+              "RelativeToolTip": "SIMS\\Views\\Teacher\\Add.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T08:52:01.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "D:\\APDP\\SIMS\\SIMS\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "SIMS\\Controllers\\TeacherController.cs",
+              "ToolTip": "D:\\APDP\\SIMS\\SIMS\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "SIMS\\Controllers\\TeacherController.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAAAP4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:50:23.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

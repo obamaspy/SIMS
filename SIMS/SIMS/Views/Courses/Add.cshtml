@@ -1,0 +1,56 @@
+﻿@model SIMS.Models.CoursesDetail
+
+@{
+    ViewData["title"] = "Add Courses";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<div class="row">
+    <div class="col-sm-12 col-md-12">
+        <h2>Add Courses</h2>
+        <a class="btn btn-info" href="@Url.Action("Index", "Courses")">Back</a>
+
+        @if (TempData["success"] != null)
+        {
+            <div class="alert alert-success">@TempData["success"]</div>
+        }
+        else if (TempData["error"] != null)
+        {
+            <div class="alert alert-danger">@TempData["error"]</div>
+        }
+
+        <div class="card mt-3">
+            <div class="card-body">
+                <form method="post" enctype="multipart/form-data" asp-controller="Courses" asp-action="Add">
+                    <div class="mb-3">
+                        <label asp-for="CoursesName">Courses Name (*)</label>
+                        <input asp-for="CoursesName" class="form-control" type="text" />
+                        <span asp-validation-for="CoursesName" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="Subject">Subject (*)</label>
+                        <input asp-for="Subject" class="form-control" type="text" />
+                        <span asp-validation-for="Subject" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="StartDate">Start Date (*)</label>
+                        <input asp-for="StartDate" class="form-control" type="date" />
+                        <span asp-validation-for="StartDate" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="EndDate">End Date (*)</label>
+                        <input asp-for="EndDate" class="form-control" type="date" />
+                        <span asp-validation-for="EndDate" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <button class="btn btn-primary" type="submit">Submit</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,44 @@
+﻿@model SIMS.Models.AccountsDetail
+
+@{
+    ViewData["Title"] = "Delete Account";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<div class="row">
+    <div class="col-sm-12 col-md-12">
+        <h2>Delete Account</h2>
+        <a class="btn btn-info" href="@Url.Action("Index", "Accounts")">Back to Accounts</a>
+
+        @if (TempData["success"] != null)
+        {
+            <div class="alert alert-success">@TempData["success"]</div>
+        }
+        else if (TempData["error"] != null)
+        {
+            <div class="alert alert-danger">@TempData["error"]</div>
+        }
+
+        <div class="card mt-3">
+            <div class="card-body">
+                <h5 class="card-title">
+                    Are you sure you want to delete the account?
+                    <form method="post" enctype="multipart/form-data" asp-controller="Accounts" asp-action="Delete">
+                        <input type="hidden" asp-for="Id" />
+                        <div class="mb-3">
+                            <p>Username: @Model.Username</p>
+                            <p>Email: @Model.Email</p>
+                            <p>Phone: @Model.Phone</p>
+                            <p>Role: @Model.Role</p>
+                        </div>
+
+                        <div class="mb-3">
+                            <button class="btn btn-danger" type="submit">Yes, Delete</button>
+                            <a href="@Url.Action("Index", "Accounts")" class="btn btn-secondary">Cancel</a>
+                        </div>
+                    </form>
+                </h5>
+            </div>
+        </div>
+    </div>
+</div>

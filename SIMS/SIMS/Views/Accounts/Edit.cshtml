@@ -1,0 +1,68 @@
+﻿@model SIMS.Models.AccountsDetail
+
+@{
+    ViewData["Title"] = "Edit Account";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<div class="row">
+    <div class="col-sm-12 col-md-12">
+        <h2>Edit Account</h2>
+        <a class="btn btn-info" href="@Url.Action("Index", "Accounts")">Back to Accounts</a>
+
+        @if (TempData["success"] != null)
+        {
+            <div class="alert alert-success">@TempData["success"]</div>
+        }
+        else if (TempData["error"] != null)
+        {
+            <div class="alert alert-danger">@TempData["error"]</div>
+        }
+
+        <div class="card mt-3">
+            <div class="card-body">
+                <h5 class="card-title">
+                    Edit Account
+                    <form method="post" enctype="multipart/form-data" asp-controller="Accounts" asp-action="Edit">
+                        <input type="hidden" asp-for="Id" />
+                        
+                        <div class="mb-3">
+                            <label asp-for="Username">Username (*)</label>
+                            <input asp-for="Username" class="form-control" type="text" />
+                            <span asp-validation-for="Username" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Email">Email (*)</label>
+                            <input asp-for="Email" class="form-control" type="email" />
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Phone">Phone (*)</label>
+                            <input asp-for="Phone" class="form-control" type="text" />
+                            <span asp-validation-for="Phone" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Password">Password (*)</label>
+                            <input asp-for="Password" class="form-control" type="password" />
+                            <span asp-validation-for="Password" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Role">Role (*)</label>
+                            <select asp-for="Role" class="form-control" asp-items="ViewBag.Roles">
+                            </select>
+                            <span asp-validation-for="Role" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <button class="btn btn-primary" type="submit">Update Account</button>
+                        </div>
+                    </form>
+                </h5>
+            </div>
+        </div>
+    </div>
+</div>

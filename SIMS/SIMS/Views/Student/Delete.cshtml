@@ -1,0 +1,23 @@
+﻿[HttpPost]
+[ValidateAntiForgeryToken]
+public IActionResult Delete(int id)
+{
+    var student = _dbContext.Student.Find(id);
+    if (student == null)
+    {
+        return NotFound();
+    }
+
+    try
+    {
+        _dbContext.Student.Remove(student);
+        _dbContext.SaveChanges();
+        TempData["message"] = "Student deleted successfully!";
+    }
+    catch
+    {
+        TempData["error"] = "An error occurred while deleting student.";
+    }
+
+    return RedirectToAction("Index");
+}

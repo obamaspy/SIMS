@@ -1,0 +1,65 @@
+﻿@model SIMS.Models.CategoryViewModel;
+@{
+    ViewData["title"] = "Category";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+    bool statusSave = Convert.ToBoolean(TempData["save"]);
+}
+
+<div class="row">
+    <div class="col-sm-12 col-md-12">
+        <h2>Categories Page</h2>
+
+        @if (!User.IsInRole("Student"))
+        {
+            <a class="btn btn-primary" href="@Url.Action("Create", "Category")">Add Category</a>
+        }
+
+        @if (TempData["save"] != null)
+        {
+            <div class="text-@(statusSave ? "success" : "danger") my-2">
+                @(statusSave ? "Operation successful!" : "Operation failed!")
+            </div>
+        }
+
+        <table class="table my-2">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th width="10%">Avatar</th>
+                    <th>Description</th>
+                    <th>Status</th>
+                    <th>Created At</th>
+                    <th>Updated At</th>
+                    @if (!User.IsInRole("Student"))
+                    {
+                        <th>Actions</th>
+                    }
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.CategoryList)
+                {
+                    <tr>
+                        <td>@item.Id</td>
+                        <td>@item.NameCategory</td>
+                        <td width="10%">
+                            <img class="img-fluid" src="~/SIMS/upload/images/@item.Avatar" />
+                        </td>
+                        <td>@item.Description</td>
+                        <td>@item.Status</td>
+                        <td>@item.CreateAt</td>
+                        <td>@item.UpdateAt</td>
+                        @if (!User.IsInRole("Student"))
+                        {
+                            <td>
+                                <a class="btn btn-warning btn-sm" href="@Url.Action("Edit", "Category", new { id = item.Id })">Edit</a>
+                                <a class="btn btn-danger btn-sm" href="@Url.Action("Delete", "Category", new { id = item.Id })">Delete</a>
+                            </td>
+                        }
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
