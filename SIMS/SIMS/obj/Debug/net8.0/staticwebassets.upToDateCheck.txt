@@ -76,14 +76,11 @@ wwwroot\SIMS\img\photos\unsplash-3.jpg
 wwwroot\SIMS\js\app.js
 wwwroot\SIMS\js\app.js.LICENSE.txt
 wwwroot\SIMS\js\app.js.map
-wwwroot\SIMS\students\0safr93ogd5b1.jpg
 wwwroot\SIMS\students\anh-anime-giang-sinh-chibi-3-1.jpg
 wwwroot\SIMS\students\anh-avatar-anime-trang-den-girl-1.jpg
 wwwroot\SIMS\students\avatar-trang-4.jpg
 wwwroot\SIMS\students\hinh-nen-anime-48.jpg
 wwwroot\SIMS\students\hinh-nen-anime-ngau-nam-1.jpg
-wwwroot\SIMS\students\image.png
-wwwroot\SIMS\students\wgxzsuxysame1.gif
 wwwroot\SIMS\teachers\09b859813a68cf565aa4f7adb01646ef.jpg
 wwwroot\SIMS\teachers\1-533x800.jpg
 wwwroot\SIMS\teachers\1-cach-tao-dang-chup-anh-cho-hoc-sinh-nam-inkythuatso-15-15-24-02.jpg

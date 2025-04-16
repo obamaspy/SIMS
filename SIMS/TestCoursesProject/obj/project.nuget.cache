@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C7RP0JPVgJI=",
+  "dgSpecHash": "nIYrV3DrjDo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ADMIN\\Downloads\\SIMS\\TestCoursesProject\\TestCoursesProject.csproj",
+  "projectFilePath": "D:\\SIMS\\TestCoursesProject\\TestCoursesProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

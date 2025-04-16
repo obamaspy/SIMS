@@ -1,70 +1,64 @@
 ﻿@model SIMS.Models.TeacherDetail
 
 @{
-    ViewData["Title"] = "Edit Teacher";
+    ViewData["title"] = "Edit Teacher";
     Layout = "~/Views/Shared/_MainLayout.cshtml";
 }
 
 <div class="row">
-    <div class="col-sm-12 col-md-12">
+    <div class="col-sm-12 col-md-6">
         <h2>Edit Teacher</h2>
-        <a class="btn btn-info mb-3" href="@Url.Action("Index", "Teacher")">Back to List</a>
 
-        @if (TempData["success"] != null)
+        @if (TempData["error"] != null)
         {
-            <div class="alert alert-success">@TempData["success"]</div>
-        }
-        else if (TempData["error"] != null)
-        {
-            <div class="alert alert-danger">@TempData["error"]</div>
+            <div class="alert alert-danger my-2">@TempData["error"]</div>
         }
 
-        <div class="card">
-            <div class="card-body">
-                <form method="post" asp-controller="Teacher" asp-action="Edit" enctype="multipart/form-data">
-                    <input type="hidden" asp-for="Id" />
+        <form asp-action="Edit" asp-controller="Teacher" method="post" enctype="multipart/form-data">
+            <input type="hidden" asp-for="Id" />
 
-                    <div class="mb-3">
-                        <label asp-for="Name" class="form-label">Name</label>
-                        <input asp-for="Name" class="form-control" />
-                        <span asp-validation-for="Name" class="text-danger"></span>
-                    </div>
-
-                    <div class="mb-3">
-                        <label asp-for="Email" class="form-label">Email</label>
-                        <input asp-for="Email" class="form-control" />
-                        <span asp-validation-for="Email" class="text-danger"></span>
-                    </div>
-
-                    <div class="mb-3">
-                        <label asp-for="Address" class="form-label">Address</label>
-                        <input asp-for="Address" class="form-control" />
-                        <span asp-validation-for="Address" class="text-danger"></span>
-                    </div>
-
-                    <div class="mb-3">
-                        <label asp-for="Subject" class="form-label">Subject</label>
-                        <input asp-for="Subject" class="form-control" />
-                        <span asp-validation-for="Subject" class="text-danger"></span>
-                    </div>
-
-                    <div class="mb-3">
-                        <label class="form-label">Avatar</label>
-                        <input type="file" class="form-control" name="avatarFile" accept="image/*" />
-
-                        @if (!string.IsNullOrEmpty(Model.Avatar))
-                        {
-                            <div class="mt-2">
-                                <p>Current Avatar:</p>
-                                <img src="~/uploads/teachers/@Model.Avatar" width="120" alt="Avatar" class="img-thumbnail" />
-                                <p>@Model.Avatar</p>
-                            </div>
-                        }
-                    </div>
-
-                    <button type="submit" class="btn btn-primary">Save Changes</button>
-                </form>
+            <div class="form-group mb-3">
+                <label asp-for="Name" class="form-label">Name</label>
+                <input asp-for="Name" class="form-control" required />
+                <span asp-validation-for="Name" class="text-danger"></span>
             </div>
-        </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Email" class="form-label">Email</label>
+                <input asp-for="Email" class="form-control" type="email" required />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Address" class="form-label">Address</label>
+                <input asp-for="Address" class="form-control" required />
+                <span asp-validation-for="Address" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Subject" class="form-label">Subject</label>
+                <input asp-for="Subject" class="form-control" required />
+                <span asp-validation-for="Subject" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="ViewAvatar" class="form-label">Avatar</label>
+                @if (!string.IsNullOrEmpty(Model.Avatar))
+                {
+                    <div class="mb-2">
+                        <p>Current Avatar:</p>
+                        <img src="/uploads/teachers/@Model.Avatar" width="100" height="100" style="object-fit: cover;" alt="Current Avatar"
+                             onerror="this.onerror=null; this.src='/images/default-avatar.png';" />
+                    </div>
+                }
+                <input asp-for="ViewAvatar" type="file" class="form-control" accept="image/*" name="ViewAvatar" />
+                <small class="form-text text-muted">Leave blank to keep the current avatar.</small>
+                <span asp-validation-for="ViewAvatar" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Save Changes</button>
+            <a class="btn btn-secondary" asp-action="Index">Cancel</a>
+        </form>
     </div>
 </div>
+

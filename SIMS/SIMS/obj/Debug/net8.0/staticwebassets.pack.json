@@ -1,631 +1,619 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SIMS.bundle.scp.css",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SIMS.bundle.scp.css",
       "PackagePath": "staticwebassets\\SIMS.0j6nddua3b.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\css\\app.css",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\css\\app.css",
       "PackagePath": "staticwebassets\\SIMS\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\css\\app.css.map",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\css\\app.css.map",
       "PackagePath": "staticwebassets\\SIMS\\css\\app.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\fonts\\.gitkeep",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\fonts\\.gitkeep",
       "PackagePath": "staticwebassets\\SIMS\\fonts\\.gitkeep"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\img\\avatars\\Aatrox_0 (1).jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\img\\avatars\\Aatrox_0 (1).jpg",
       "PackagePath": "staticwebassets\\SIMS\\img\\avatars\\Aatrox_0 (1).jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\img\\avatars\\Vi_0.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\img\\avatars\\Vi_0.jpg",
       "PackagePath": "staticwebassets\\SIMS\\img\\avatars\\Vi_0.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\img\\avatars\\Zyra_0.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\img\\avatars\\Zyra_0.jpg",
       "PackagePath": "staticwebassets\\SIMS\\img\\avatars\\Zyra_0.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\img\\avatars\\avatar-2.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\img\\avatars\\avatar-2.jpg",
       "PackagePath": "staticwebassets\\SIMS\\img\\avatars\\avatar-2.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\img\\avatars\\avatar-3.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\img\\avatars\\avatar-3.jpg",
       "PackagePath": "staticwebassets\\SIMS\\img\\avatars\\avatar-3.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\img\\avatars\\avatar-4.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\img\\avatars\\avatar-4.jpg",
       "PackagePath": "staticwebassets\\SIMS\\img\\avatars\\avatar-4.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\img\\avatars\\avatar-5.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\img\\avatars\\avatar-5.jpg",
       "PackagePath": "staticwebassets\\SIMS\\img\\avatars\\avatar-5.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\img\\avatars\\avatar.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\img\\avatars\\avatar.jpg",
       "PackagePath": "staticwebassets\\SIMS\\img\\avatars\\avatar.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\img\\icons\\icon-48x48.png",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\img\\icons\\icon-48x48.png",
       "PackagePath": "staticwebassets\\SIMS\\img\\icons\\icon-48x48.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\img\\photos\\unsplash-1.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\img\\photos\\unsplash-1.jpg",
       "PackagePath": "staticwebassets\\SIMS\\img\\photos\\unsplash-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\img\\photos\\unsplash-2.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\img\\photos\\unsplash-2.jpg",
       "PackagePath": "staticwebassets\\SIMS\\img\\photos\\unsplash-2.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\img\\photos\\unsplash-3.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\img\\photos\\unsplash-3.jpg",
       "PackagePath": "staticwebassets\\SIMS\\img\\photos\\unsplash-3.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\js\\app.js",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\js\\app.js",
       "PackagePath": "staticwebassets\\SIMS\\js\\app.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\js\\app.js.LICENSE.txt",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\js\\app.js.LICENSE.txt",
       "PackagePath": "staticwebassets\\SIMS\\js\\app.js.LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\js\\app.js.map",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\js\\app.js.map",
       "PackagePath": "staticwebassets\\SIMS\\js\\app.js.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\students\\0safr93ogd5b1.jpg",
-      "PackagePath": "staticwebassets\\SIMS\\students\\0safr93ogd5b1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\students\\anh-anime-giang-sinh-chibi-3-1.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\students\\anh-anime-giang-sinh-chibi-3-1.jpg",
       "PackagePath": "staticwebassets\\SIMS\\students\\anh-anime-giang-sinh-chibi-3-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\students\\anh-avatar-anime-trang-den-girl-1.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\students\\anh-avatar-anime-trang-den-girl-1.jpg",
       "PackagePath": "staticwebassets\\SIMS\\students\\anh-avatar-anime-trang-den-girl-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\students\\avatar-trang-4.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\students\\avatar-trang-4.jpg",
       "PackagePath": "staticwebassets\\SIMS\\students\\avatar-trang-4.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\students\\hinh-nen-anime-48.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\students\\hinh-nen-anime-48.jpg",
       "PackagePath": "staticwebassets\\SIMS\\students\\hinh-nen-anime-48.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\students\\hinh-nen-anime-ngau-nam-1.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\students\\hinh-nen-anime-ngau-nam-1.jpg",
       "PackagePath": "staticwebassets\\SIMS\\students\\hinh-nen-anime-ngau-nam-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\students\\image.png",
-      "PackagePath": "staticwebassets\\SIMS\\students\\image.png"
-    },
-    {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\students\\wgxzsuxysame1.gif",
-      "PackagePath": "staticwebassets\\SIMS\\students\\wgxzsuxysame1.gif"
-    },
-    {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\teachers\\09b859813a68cf565aa4f7adb01646ef.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\teachers\\09b859813a68cf565aa4f7adb01646ef.jpg",
       "PackagePath": "staticwebassets\\SIMS\\teachers\\09b859813a68cf565aa4f7adb01646ef.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\teachers\\1-533x800.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\teachers\\1-533x800.jpg",
       "PackagePath": "staticwebassets\\SIMS\\teachers\\1-533x800.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\teachers\\1-cach-tao-dang-chup-anh-cho-hoc-sinh-nam-inkythuatso-15-15-24-02.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\teachers\\1-cach-tao-dang-chup-anh-cho-hoc-sinh-nam-inkythuatso-15-15-24-02.jpg",
       "PackagePath": "staticwebassets\\SIMS\\teachers\\1-cach-tao-dang-chup-anh-cho-hoc-sinh-nam-inkythuatso-15-15-24-02.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\teachers\\76125f9ab28417da4e95-1721803265380893801881-50-0-1349-974-crop-17218037714141671485104.webp",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\teachers\\76125f9ab28417da4e95-1721803265380893801881-50-0-1349-974-crop-17218037714141671485104.webp",
       "PackagePath": "staticwebassets\\SIMS\\teachers\\76125f9ab28417da4e95-1721803265380893801881-50-0-1349-974-crop-17218037714141671485104.webp"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\teachers\\Anh-cong-so-1-min.jpg.webp",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\teachers\\Anh-cong-so-1-min.jpg.webp",
       "PackagePath": "staticwebassets\\SIMS\\teachers\\Anh-cong-so-1-min.jpg.webp"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\teachers\\Anh-profile-55.jpg.webp",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\teachers\\Anh-profile-55.jpg.webp",
       "PackagePath": "staticwebassets\\SIMS\\teachers\\Anh-profile-55.jpg.webp"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\teachers\\anh-27-meme-dang-yeu-didongmy.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\teachers\\anh-27-meme-dang-yeu-didongmy.jpg",
       "PackagePath": "staticwebassets\\SIMS\\teachers\\anh-27-meme-dang-yeu-didongmy.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\teachers\\anh-mang-nam-dep-trai_095940077.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\teachers\\anh-mang-nam-dep-trai_095940077.jpg",
       "PackagePath": "staticwebassets\\SIMS\\teachers\\anh-mang-nam-dep-trai_095940077.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\teachers\\anh-mo-ta.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\teachers\\anh-mo-ta.jpg",
       "PackagePath": "staticwebassets\\SIMS\\teachers\\anh-mo-ta.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\teachers\\anh-trai-dep-Viet-Nam.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\teachers\\anh-trai-dep-Viet-Nam.jpg",
       "PackagePath": "staticwebassets\\SIMS\\teachers\\anh-trai-dep-Viet-Nam.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\teachers\\cach-chup-anh-the-dep-e1664379835782.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\teachers\\cach-chup-anh-the-dep-e1664379835782.jpg",
       "PackagePath": "staticwebassets\\SIMS\\teachers\\cach-chup-anh-the-dep-e1664379835782.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\teachers\\e375b2356ecda893f1dc-9121.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\teachers\\e375b2356ecda893f1dc-9121.jpg",
       "PackagePath": "staticwebassets\\SIMS\\teachers\\e375b2356ecda893f1dc-9121.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\teachers\\images.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\teachers\\images.jpg",
       "PackagePath": "staticwebassets\\SIMS\\teachers\\images.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\teachers\\mãu.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\teachers\\mãu.jpg",
       "PackagePath": "staticwebassets\\SIMS\\teachers\\mãu.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\teachers\\mãuu.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\teachers\\mãuu.jpg",
       "PackagePath": "staticwebassets\\SIMS\\teachers\\mãuu.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\upload\\images\\1e8505cd-57be-4287-addd-501793f58cc9-drx.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\upload\\images\\1e8505cd-57be-4287-addd-501793f58cc9-drx.jpg",
       "PackagePath": "staticwebassets\\SIMS\\upload\\images\\1e8505cd-57be-4287-addd-501793f58cc9-drx.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\upload\\images\\26f8d698-db74-4cff-9341-6e0c04e5f4c2-html-css.png",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\upload\\images\\26f8d698-db74-4cff-9341-6e0c04e5f4c2-html-css.png",
       "PackagePath": "staticwebassets\\SIMS\\upload\\images\\26f8d698-db74-4cff-9341-6e0c04e5f4c2-html-css.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\upload\\images\\2bbc4320-444c-46cb-a5c2-86729c4e81c2-aspdotnet.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\upload\\images\\2bbc4320-444c-46cb-a5c2-86729c4e81c2-aspdotnet.jpg",
       "PackagePath": "staticwebassets\\SIMS\\upload\\images\\2bbc4320-444c-46cb-a5c2-86729c4e81c2-aspdotnet.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\upload\\images\\2f78986b-ba5d-4fde-ba23-2d4bd5c6614e-83b7723b-00d6-4441-990d-ae4b150aa97f-Aatrox_0.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\upload\\images\\2f78986b-ba5d-4fde-ba23-2d4bd5c6614e-83b7723b-00d6-4441-990d-ae4b150aa97f-Aatrox_0.jpg",
       "PackagePath": "staticwebassets\\SIMS\\upload\\images\\2f78986b-ba5d-4fde-ba23-2d4bd5c6614e-83b7723b-00d6-4441-990d-ae4b150aa97f-Aatrox_0.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\upload\\images\\4109739c-7f34-45b1-808b-63c3be3e84b7-toan.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\upload\\images\\4109739c-7f34-45b1-808b-63c3be3e84b7-toan.jpg",
       "PackagePath": "staticwebassets\\SIMS\\upload\\images\\4109739c-7f34-45b1-808b-63c3be3e84b7-toan.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\upload\\images\\56ae4875-f6fb-48f4-bce6-02be881d014f-drx.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\upload\\images\\56ae4875-f6fb-48f4-bce6-02be881d014f-drx.jpg",
       "PackagePath": "staticwebassets\\SIMS\\upload\\images\\56ae4875-f6fb-48f4-bce6-02be881d014f-drx.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\upload\\images\\6614f0d2-5289-41d9-addd-fde02d326fd5-android-studio.png",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\upload\\images\\6614f0d2-5289-41d9-addd-fde02d326fd5-android-studio.png",
       "PackagePath": "staticwebassets\\SIMS\\upload\\images\\6614f0d2-5289-41d9-addd-fde02d326fd5-android-studio.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\upload\\images\\83b7723b-00d6-4441-990d-ae4b150aa97f-Aatrox_0.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\upload\\images\\83b7723b-00d6-4441-990d-ae4b150aa97f-Aatrox_0.jpg",
       "PackagePath": "staticwebassets\\SIMS\\upload\\images\\83b7723b-00d6-4441-990d-ae4b150aa97f-Aatrox_0.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\upload\\images\\Aatrox_0.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\upload\\images\\Aatrox_0.jpg",
       "PackagePath": "staticwebassets\\SIMS\\upload\\images\\Aatrox_0.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\upload\\images\\Camille_10.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\upload\\images\\Camille_10.jpg",
       "PackagePath": "staticwebassets\\SIMS\\upload\\images\\Camille_10.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\upload\\images\\a3019607-fd39-41a0-862f-28c57fb1909e-drx.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\upload\\images\\a3019607-fd39-41a0-862f-28c57fb1909e-drx.jpg",
       "PackagePath": "staticwebassets\\SIMS\\upload\\images\\a3019607-fd39-41a0-862f-28c57fb1909e-drx.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\upload\\images\\aea24a1a-a86a-4468-8ac5-e4b041cf7c33-b9c2769a-1024-4498-8bd2-c2a0483410de-Camille_10.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\upload\\images\\aea24a1a-a86a-4468-8ac5-e4b041cf7c33-b9c2769a-1024-4498-8bd2-c2a0483410de-Camille_10.jpg",
       "PackagePath": "staticwebassets\\SIMS\\upload\\images\\aea24a1a-a86a-4468-8ac5-e4b041cf7c33-b9c2769a-1024-4498-8bd2-c2a0483410de-Camille_10.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\upload\\images\\b87c0a59-18ce-4734-bad6-01776599e320-dsa.png",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\upload\\images\\b87c0a59-18ce-4734-bad6-01776599e320-dsa.png",
       "PackagePath": "staticwebassets\\SIMS\\upload\\images\\b87c0a59-18ce-4734-bad6-01776599e320-dsa.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\upload\\images\\b9c2769a-1024-4498-8bd2-c2a0483410de-Camille_10.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\upload\\images\\b9c2769a-1024-4498-8bd2-c2a0483410de-Camille_10.jpg",
       "PackagePath": "staticwebassets\\SIMS\\upload\\images\\b9c2769a-1024-4498-8bd2-c2a0483410de-Camille_10.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\SIMS\\upload\\images\\fe0b7941-a5ed-4619-b3bc-2883e11a3214-PHP-logo.png",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\SIMS\\upload\\images\\fe0b7941-a5ed-4619-b3bc-2883e11a3214-PHP-logo.png",
       "PackagePath": "staticwebassets\\SIMS\\upload\\images\\fe0b7941-a5ed-4619-b3bc-2883e11a3214-PHP-logo.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\css\\site.css",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\favicon.ico",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\js\\site.js",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\uploads\\students\\0290a18a-68d7-4783-bfe5-21208f614f40.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\uploads\\students\\0290a18a-68d7-4783-bfe5-21208f614f40.jpg",
       "PackagePath": "staticwebassets\\uploads\\students\\0290a18a-68d7-4783-bfe5-21208f614f40.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\uploads\\students\\080902bb-01ae-4c42-ac86-ce9adb6778e6.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\uploads\\students\\080902bb-01ae-4c42-ac86-ce9adb6778e6.jpg",
       "PackagePath": "staticwebassets\\uploads\\students\\080902bb-01ae-4c42-ac86-ce9adb6778e6.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\uploads\\students\\0f109c25-4877-43f8-a5c4-354a9ba9b7ab.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\uploads\\students\\0f109c25-4877-43f8-a5c4-354a9ba9b7ab.jpg",
       "PackagePath": "staticwebassets\\uploads\\students\\0f109c25-4877-43f8-a5c4-354a9ba9b7ab.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\uploads\\students\\111c610c-8d01-4bd0-9e08-6998004d6dbd.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\uploads\\students\\111c610c-8d01-4bd0-9e08-6998004d6dbd.jpg",
       "PackagePath": "staticwebassets\\uploads\\students\\111c610c-8d01-4bd0-9e08-6998004d6dbd.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\uploads\\students\\1d2a2164-233a-423c-aa26-240a23f23950.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\uploads\\students\\1d2a2164-233a-423c-aa26-240a23f23950.jpg",
       "PackagePath": "staticwebassets\\uploads\\students\\1d2a2164-233a-423c-aa26-240a23f23950.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\uploads\\students\\23c342ab-4220-48c4-b11a-3ec6266e9714.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\uploads\\students\\23c342ab-4220-48c4-b11a-3ec6266e9714.jpg",
       "PackagePath": "staticwebassets\\uploads\\students\\23c342ab-4220-48c4-b11a-3ec6266e9714.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\uploads\\students\\24e6c60b-92e3-4f96-8e0a-4c6c5e8cac4e.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\uploads\\students\\24e6c60b-92e3-4f96-8e0a-4c6c5e8cac4e.jpg",
       "PackagePath": "staticwebassets\\uploads\\students\\24e6c60b-92e3-4f96-8e0a-4c6c5e8cac4e.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\uploads\\students\\30f73556-c753-445e-88ff-7326f59eeda4.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\uploads\\students\\30f73556-c753-445e-88ff-7326f59eeda4.jpg",
       "PackagePath": "staticwebassets\\uploads\\students\\30f73556-c753-445e-88ff-7326f59eeda4.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\uploads\\students\\3b015659-cb40-4960-b28e-8464a9ef3794.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\uploads\\students\\3b015659-cb40-4960-b28e-8464a9ef3794.jpg",
       "PackagePath": "staticwebassets\\uploads\\students\\3b015659-cb40-4960-b28e-8464a9ef3794.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\uploads\\students\\3d5e5025-b0c2-42f6-a640-a51eb0d3703c.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\uploads\\students\\3d5e5025-b0c2-42f6-a640-a51eb0d3703c.jpg",
       "PackagePath": "staticwebassets\\uploads\\students\\3d5e5025-b0c2-42f6-a640-a51eb0d3703c.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\uploads\\students\\4529cdde-f7cd-4a1f-a18f-4a984405d531.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\uploads\\students\\4529cdde-f7cd-4a1f-a18f-4a984405d531.jpg",
       "PackagePath": "staticwebassets\\uploads\\students\\4529cdde-f7cd-4a1f-a18f-4a984405d531.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\uploads\\students\\4c3ff41a-fc48-4f44-bdc3-fef2f9be9269.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\uploads\\students\\4c3ff41a-fc48-4f44-bdc3-fef2f9be9269.jpg",
       "PackagePath": "staticwebassets\\uploads\\students\\4c3ff41a-fc48-4f44-bdc3-fef2f9be9269.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\uploads\\students\\5aef2c9e-ab8e-4307-b77e-dd52515d85e5.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\uploads\\students\\5aef2c9e-ab8e-4307-b77e-dd52515d85e5.jpg",
       "PackagePath": "staticwebassets\\uploads\\students\\5aef2c9e-ab8e-4307-b77e-dd52515d85e5.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\uploads\\students\\5fec9dec-2b69-4bc2-bd9b-4da31b90899f.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\uploads\\students\\5fec9dec-2b69-4bc2-bd9b-4da31b90899f.jpg",
       "PackagePath": "staticwebassets\\uploads\\students\\5fec9dec-2b69-4bc2-bd9b-4da31b90899f.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\uploads\\students\\671bb95c-b840-4f08-a67e-ca0216109de3.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\uploads\\students\\671bb95c-b840-4f08-a67e-ca0216109de3.jpg",
       "PackagePath": "staticwebassets\\uploads\\students\\671bb95c-b840-4f08-a67e-ca0216109de3.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\uploads\\students\\72c49dbc-09f0-42d3-94f8-1b7adbb33e72.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\uploads\\students\\72c49dbc-09f0-42d3-94f8-1b7adbb33e72.jpg",
       "PackagePath": "staticwebassets\\uploads\\students\\72c49dbc-09f0-42d3-94f8-1b7adbb33e72.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\uploads\\students\\8198a7e0-2f03-48a8-9838-0450f4045634.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\uploads\\students\\8198a7e0-2f03-48a8-9838-0450f4045634.jpg",
       "PackagePath": "staticwebassets\\uploads\\students\\8198a7e0-2f03-48a8-9838-0450f4045634.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\uploads\\students\\845afffe-25ca-4004-83dd-86af87a1b9d9.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\uploads\\students\\845afffe-25ca-4004-83dd-86af87a1b9d9.jpg",
       "PackagePath": "staticwebassets\\uploads\\students\\845afffe-25ca-4004-83dd-86af87a1b9d9.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\uploads\\students\\992642c8-8ca5-4bd8-b5a1-646f85cfd06d.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\uploads\\students\\992642c8-8ca5-4bd8-b5a1-646f85cfd06d.jpg",
       "PackagePath": "staticwebassets\\uploads\\students\\992642c8-8ca5-4bd8-b5a1-646f85cfd06d.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\uploads\\students\\ab1ccded-b283-49de-bab3-46a2adb8ebc2.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\uploads\\students\\ab1ccded-b283-49de-bab3-46a2adb8ebc2.jpg",
       "PackagePath": "staticwebassets\\uploads\\students\\ab1ccded-b283-49de-bab3-46a2adb8ebc2.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\uploads\\students\\b63d100c-a7cd-4f61-8241-08b7dfe42541.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\uploads\\students\\b63d100c-a7cd-4f61-8241-08b7dfe42541.jpg",
       "PackagePath": "staticwebassets\\uploads\\students\\b63d100c-a7cd-4f61-8241-08b7dfe42541.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\uploads\\students\\ce45125a-c074-4104-b80f-adc315c67b0a.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\uploads\\students\\ce45125a-c074-4104-b80f-adc315c67b0a.jpg",
       "PackagePath": "staticwebassets\\uploads\\students\\ce45125a-c074-4104-b80f-adc315c67b0a.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\uploads\\students\\d4c0adaa-6cef-4ea4-88eb-03bff0e5c79b.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\uploads\\students\\d4c0adaa-6cef-4ea4-88eb-03bff0e5c79b.jpg",
       "PackagePath": "staticwebassets\\uploads\\students\\d4c0adaa-6cef-4ea4-88eb-03bff0e5c79b.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\uploads\\students\\db5abf99-8ee0-4c14-90f6-c4af1417e2be.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\uploads\\students\\db5abf99-8ee0-4c14-90f6-c4af1417e2be.jpg",
       "PackagePath": "staticwebassets\\uploads\\students\\db5abf99-8ee0-4c14-90f6-c4af1417e2be.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\uploads\\students\\e74c6b0d-1a7c-4b97-b1b1-7d6648e214ff.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\uploads\\students\\e74c6b0d-1a7c-4b97-b1b1-7d6648e214ff.jpg",
       "PackagePath": "staticwebassets\\uploads\\students\\e74c6b0d-1a7c-4b97-b1b1-7d6648e214ff.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\uploads\\students\\e91f511f-7ba5-43fc-b71b-2a963e8f1eb6.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\uploads\\students\\e91f511f-7ba5-43fc-b71b-2a963e8f1eb6.jpg",
       "PackagePath": "staticwebassets\\uploads\\students\\e91f511f-7ba5-43fc-b71b-2a963e8f1eb6.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\uploads\\students\\e9f99e06-9d04-4ee2-a895-f0d62d9e51fb.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\uploads\\students\\e9f99e06-9d04-4ee2-a895-f0d62d9e51fb.jpg",
       "PackagePath": "staticwebassets\\uploads\\students\\e9f99e06-9d04-4ee2-a895-f0d62d9e51fb.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\uploads\\students\\ffb73a79-3658-45f4-beda-23828b4095b1.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\uploads\\students\\ffb73a79-3658-45f4-beda-23828b4095b1.jpg",
       "PackagePath": "staticwebassets\\uploads\\students\\ffb73a79-3658-45f4-beda-23828b4095b1.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\uploads\\teachers\\09b859813a68cf565aa4f7adb01646ef.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\uploads\\teachers\\09b859813a68cf565aa4f7adb01646ef.jpg",
       "PackagePath": "staticwebassets\\uploads\\teachers\\09b859813a68cf565aa4f7adb01646ef.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\uploads\\teachers\\1-533x800.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\uploads\\teachers\\1-533x800.jpg",
       "PackagePath": "staticwebassets\\uploads\\teachers\\1-533x800.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\uploads\\teachers\\1-cach-tao-dang-chup-anh-cho-hoc-sinh-nam-inkythuatso-15-15-24-02.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\uploads\\teachers\\1-cach-tao-dang-chup-anh-cho-hoc-sinh-nam-inkythuatso-15-15-24-02.jpg",
       "PackagePath": "staticwebassets\\uploads\\teachers\\1-cach-tao-dang-chup-anh-cho-hoc-sinh-nam-inkythuatso-15-15-24-02.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\uploads\\teachers\\2dcf1b52-8660-435b-b482-6b200f6206bb.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\uploads\\teachers\\2dcf1b52-8660-435b-b482-6b200f6206bb.jpg",
       "PackagePath": "staticwebassets\\uploads\\teachers\\2dcf1b52-8660-435b-b482-6b200f6206bb.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\uploads\\teachers\\Anh-cong-so-1-min.jpg.webp",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\uploads\\teachers\\Anh-cong-so-1-min.jpg.webp",
       "PackagePath": "staticwebassets\\uploads\\teachers\\Anh-cong-so-1-min.jpg.webp"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\uploads\\teachers\\Anh-profile-55.jpg.webp",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\uploads\\teachers\\Anh-profile-55.jpg.webp",
       "PackagePath": "staticwebassets\\uploads\\teachers\\Anh-profile-55.jpg.webp"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\uploads\\teachers\\anh-mo-ta.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\uploads\\teachers\\anh-mo-ta.jpg",
       "PackagePath": "staticwebassets\\uploads\\teachers\\anh-mo-ta.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\uploads\\teachers\\anh-trai-dep-Viet-Nam.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\uploads\\teachers\\anh-trai-dep-Viet-Nam.jpg",
       "PackagePath": "staticwebassets\\uploads\\teachers\\anh-trai-dep-Viet-Nam.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\uploads\\teachers\\cach-chup-anh-the-dep-e1664379835782.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\uploads\\teachers\\cach-chup-anh-the-dep-e1664379835782.jpg",
       "PackagePath": "staticwebassets\\uploads\\teachers\\cach-chup-anh-the-dep-e1664379835782.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\uploads\\teachers\\mãu.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\uploads\\teachers\\mãu.jpg",
       "PackagePath": "staticwebassets\\uploads\\teachers\\mãu.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\uploads\\teachers\\mãuu.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\uploads\\teachers\\mãuu.jpg",
       "PackagePath": "staticwebassets\\uploads\\teachers\\mãuu.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Downloads\\SIMS\\SIMS\\wwwroot\\uploads\\teachers\\ảnh đẹp.jpg",
+      "Id": "D:\\APDP\\SIMS\\SIMS\\wwwroot\\uploads\\teachers\\ảnh đẹp.jpg",
       "PackagePath": "staticwebassets\\uploads\\teachers\\ảnh đẹp.jpg"
     },
     {
